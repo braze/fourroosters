@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Four Roosters</string>
+    <string name="wanna_guess">I wanna guess</string>
+    <string name="category_catch_me">catch me if you can</string>
+    <string name="category_who_will_win">How to play?</string>
+    <string name="rules">This is the rules that explains you how to play in this type of game shortly.</string>
+    <string name="description">description</string>
+    <string name="title_placeholder">Title</string>
+    <string name="win_dialog">You win!</string>
+    <string name="new_game">New Game</string>
+
+    <string-array name="main_titles">
+        <item>I wanna guess</item>
+        <item>Catch me if you can</item>
+        <item>How to play?</item>
+    </string-array>
+
+    <string-array name="main_info">
+        <item>This is the rules that explains you how to play in this type of game shortly</item>
+        <item>This is the rules that explains you how to play in this type of game shortly</item>
+        <item>This is the rules that explains you how to play in this type of game shortly</item>
+    </string-array>
+
+    <array name="main_img">
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_tabletennis</item>
+    </array>
+
+</resources>
